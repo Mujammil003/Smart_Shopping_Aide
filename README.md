@@ -1,1 +1,1 @@
-# Smart_Shopping_Aide
+An ecommerce application that helps us to optimize our product search, geolocation based products price recommendation and virtual try-on for trial room experience all these features done with the help of ai
